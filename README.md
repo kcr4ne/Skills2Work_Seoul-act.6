@@ -145,7 +145,7 @@ XSS와 마찬가지로 입력 필드에 삽입하면 될 것이다.<br><br>
 <br><br>
 <img width="783" height="200" alt="image" src="https://github.com/user-attachments/assets/f3bd620f-d72e-48e7-b093-945a11802fd8" />
 <br><br>
-개발자 도구로 조작 후 Check stock을 누르니 값이 익스플로잇에 성공했다.<br>
+개발자 도구로 조작 후 Check stock을 누르니 값이 출력되며 익스플로잇에 성공했다.<br>
 아래는 Burp Suite를 활용해 익스플로잇 하는 방법이다.<br><br>
 <img width="237" height="124" alt="image" src="https://github.com/user-attachments/assets/8a94e3c9-b5c7-4c4d-ac7d-1c73df91eb12" />
 <br><br>
